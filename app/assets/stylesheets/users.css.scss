@@ -15,6 +15,10 @@
     text-align: center;
 }
 
+.well.row {
+  border: 3px solid #867777;
+}
+
 .well.profile-block {
     color: #fff;
     h3 {
@@ -37,7 +41,7 @@
     border-radius: 50%;
 }
 
-.well.white-bg {
-    background-color: white;
+.well.grey-bg {
+    background-color: #d8d8d8;
 }
 
